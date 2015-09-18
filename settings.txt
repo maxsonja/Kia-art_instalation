@@ -1,0 +1,49 @@
+{
+    "General": {
+        "Position": [
+            0, 
+            0
+        ], 
+        "folder": "clips1/", 
+        "mode": "full", 
+        "res": [
+            1024, 
+            768
+        ]
+    }, 
+    "KiaGame": {
+        "floor": 50, 
+        "maxClips": 1, 
+        "maxSize": 600, 
+        "minSize": 450, 
+        "startDalay": 2, 
+        "timeout": 1, 
+        "xFrame": 1024, 
+        "yFrame": 768
+    }, 
+    "openCV": {
+        "Colors": {
+            "Dots": [
+                200, 
+                200, 
+                255
+            ], 
+            "Lines": [
+                10, 
+                100, 
+                50
+            ], 
+            "crosC": [
+                100, 
+                100, 
+                100
+            ]
+        }, 
+        "glich_tresh": 1, 
+        "mode": "Light", 
+        "resolution": [
+            254, 
+            254
+        ]
+    }
+}
